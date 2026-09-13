@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        The manifest requires an XML theme even though every screen is
+        Compose. If the host project already has one (e.g. Theme.OneFi),
+        use that instead and delete this file.
+    -->
+    <style name="Theme.OneFiApp" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
