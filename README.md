@@ -8,7 +8,7 @@ The Shop page has three tabs — **1Fi Marketplace**, **Top Brands**, and **Near
 
 | Product Listing | Product Detail |
 |---|---|
-| _add screenshot_ | _add screenshot_ |
+| ![Listing](screenshots/product-listing.jpeg) | ![Detail](screenshots/product-detail.jpeg) |
 
 ## Tech stack
 
